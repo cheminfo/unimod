@@ -13,7 +13,7 @@ async function loadTables() {
   let tables = {};
   for (let tableName of tableNames) {
     tables[camelCase(tableName)] = convertJSON(json, tableName);
-    // console.log(camelCase(tableName), tables[camelCase(tableName)].length);
+    console.log(camelCase(tableName), tables[camelCase(tableName)].length);
   }
 
   return tables;
