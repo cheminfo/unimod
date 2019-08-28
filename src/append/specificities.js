@@ -62,6 +62,7 @@ function specificities(tables) {
         delete spec2Nl.nlComposition;
       }
       specificity.spec2Nls = spec2Nls;
+      specificity.oneLetter = specificity.oneLetter.replace('-', '');
     }
 
     modification.specificities = specificities;

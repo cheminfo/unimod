@@ -29,7 +29,7 @@
       {
         "hidden": "0",
         "modKey": "1",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10418",
         "specGroup": "5",
         "position": "Protein N-term",
@@ -59,7 +59,7 @@
       {
         "hidden": "0",
         "modKey": "1",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10415",
         "specGroup": "2",
         "position": "Any N-term",
@@ -132,7 +132,7 @@
       {
         "hidden": "0",
         "modKey": "2",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "6223",
         "specGroup": "2",
         "position": "Any C-term",
@@ -142,7 +142,7 @@
       {
         "hidden": "0",
         "modKey": "2",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "6222",
         "specGroup": "1",
         "position": "Protein C-term",
@@ -171,7 +171,7 @@
       {
         "hidden": "1",
         "modKey": "3",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10361",
         "specGroup": "2",
         "position": "Any N-term",
@@ -274,7 +274,7 @@
       {
         "hidden": "0",
         "modKey": "4",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10351",
         "specGroup": "3",
         "position": "Any N-term",
@@ -419,7 +419,7 @@
       {
         "hidden": "0",
         "modKey": "5",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6975",
         "specGroup": "2",
         "position": "Any N-term",
@@ -439,7 +439,7 @@
       {
         "hidden": "1",
         "modKey": "5",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6982",
         "specGroup": "9",
         "position": "Protein N-term",
@@ -472,7 +472,7 @@
       {
         "hidden": "1",
         "modKey": "6",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9591",
         "specGroup": "3",
         "position": "Any N-term",
@@ -1126,7 +1126,7 @@
       {
         "hidden": "1",
         "modKey": "24",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6303",
         "specGroup": "3",
         "position": "Any N-term",
@@ -1155,7 +1155,7 @@
       {
         "hidden": "1",
         "modKey": "25",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3553",
         "specGroup": "2",
         "position": "Any N-term",
@@ -1288,7 +1288,7 @@
       {
         "hidden": "1",
         "modKey": "29",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6262",
         "specGroup": "2",
         "position": "Any N-term",
@@ -1337,7 +1337,7 @@
       {
         "hidden": "0",
         "modKey": "30",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "3238",
         "specGroup": "1",
         "position": "Any C-term",
@@ -1429,7 +1429,7 @@
       {
         "hidden": "0",
         "modKey": "34",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "9555",
         "specGroup": "11",
         "position": "Any C-term",
@@ -1439,7 +1439,7 @@
       {
         "hidden": "1",
         "modKey": "34",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9554",
         "specGroup": "10",
         "position": "Protein N-term",
@@ -1489,7 +1489,7 @@
       {
         "hidden": "1",
         "modKey": "34",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9549",
         "specGroup": "5",
         "position": "Any N-term",
@@ -1813,7 +1813,7 @@
       {
         "hidden": "1",
         "modKey": "36",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "8031",
         "specGroup": "6",
         "position": "Protein N-term",
@@ -1843,7 +1843,7 @@
       {
         "hidden": "1",
         "modKey": "36",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "8028",
         "specGroup": "3",
         "position": "Any N-term",
@@ -2004,7 +2004,7 @@
       {
         "hidden": "1",
         "modKey": "39",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7139",
         "specGroup": "4",
         "position": "Any N-term",
@@ -2225,7 +2225,7 @@
       {
         "hidden": "1",
         "modKey": "41",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10950",
         "specGroup": "3",
         "position": "Any N-term",
@@ -2657,7 +2657,7 @@
       {
         "hidden": "1",
         "modKey": "47",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3727",
         "specGroup": "5",
         "position": "Protein N-term",
@@ -2836,7 +2836,7 @@
       {
         "hidden": "1",
         "modKey": "52",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7016",
         "specGroup": "2",
         "position": "Any N-term",
@@ -2990,7 +2990,7 @@
       {
         "hidden": "1",
         "modKey": "54",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10490",
         "specGroup": "1",
         "position": "Protein N-term",
@@ -3082,7 +3082,7 @@
       {
         "hidden": "1",
         "modKey": "56",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6941",
         "specGroup": "2",
         "position": "Any N-term",
@@ -3112,7 +3112,7 @@
       {
         "hidden": "1",
         "modKey": "56",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6946",
         "specGroup": "7",
         "position": "Protein N-term",
@@ -3141,7 +3141,7 @@
       {
         "hidden": "1",
         "modKey": "58",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7189",
         "specGroup": "2",
         "position": "Any N-term",
@@ -3181,7 +3181,7 @@
       {
         "hidden": "1",
         "modKey": "58",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7192",
         "specGroup": "5",
         "position": "Protein N-term",
@@ -3210,7 +3210,7 @@
       {
         "hidden": "1",
         "modKey": "59",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3421",
         "specGroup": "2",
         "position": "Any N-term",
@@ -3253,7 +3253,7 @@
       {
         "hidden": "1",
         "modKey": "60",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3577",
         "specGroup": "2",
         "position": "Any N-term",
@@ -3324,7 +3324,7 @@
       {
         "hidden": "1",
         "modKey": "61",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3579",
         "specGroup": "2",
         "position": "Any N-term",
@@ -3395,7 +3395,7 @@
       {
         "hidden": "1",
         "modKey": "62",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3582",
         "specGroup": "2",
         "position": "Any N-term",
@@ -3466,7 +3466,7 @@
       {
         "hidden": "1",
         "modKey": "63",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3585",
         "specGroup": "2",
         "position": "Any N-term",
@@ -3537,7 +3537,7 @@
       {
         "hidden": "1",
         "modKey": "64",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3535",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -3547,7 +3547,7 @@
       {
         "hidden": "1",
         "modKey": "64",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3534",
         "specGroup": "2",
         "position": "Any N-term",
@@ -3586,7 +3586,7 @@
       {
         "hidden": "1",
         "modKey": "65",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3541",
         "specGroup": "2",
         "position": "Any N-term",
@@ -3625,7 +3625,7 @@
       {
         "hidden": "1",
         "modKey": "66",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3539",
         "specGroup": "2",
         "position": "Any N-term",
@@ -3837,7 +3837,7 @@
       {
         "hidden": "1",
         "modKey": "256",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6056",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -3886,7 +3886,7 @@
       {
         "hidden": "1",
         "modKey": "255",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6989",
         "specGroup": "3",
         "position": "Any N-term",
@@ -4036,7 +4036,7 @@
       {
         "hidden": "1",
         "modKey": "89",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3710",
         "specGroup": "2",
         "position": "Any N-term",
@@ -4075,7 +4075,7 @@
       {
         "hidden": "1",
         "modKey": "90",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3755",
         "specGroup": "2",
         "position": "Any N-term",
@@ -4114,7 +4114,7 @@
       {
         "hidden": "1",
         "modKey": "91",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3767",
         "specGroup": "2",
         "position": "Any N-term",
@@ -4157,7 +4157,7 @@
       {
         "hidden": "1",
         "modKey": "92",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9490",
         "specGroup": "2",
         "position": "Any N-term",
@@ -4440,7 +4440,7 @@
       {
         "hidden": "1",
         "modKey": "254",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6985",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -4470,7 +4470,7 @@
       {
         "hidden": "1",
         "modKey": "254",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6986",
         "specGroup": "4",
         "position": "Any N-term",
@@ -4586,7 +4586,7 @@
       {
         "hidden": "1",
         "modKey": "107",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3632",
         "specGroup": "1",
         "position": "Protein N-term",
@@ -4934,7 +4934,7 @@
       {
         "hidden": "1",
         "modKey": "121",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9854",
         "specGroup": "5",
         "position": "Protein N-term",
@@ -4963,7 +4963,7 @@
       {
         "hidden": "0",
         "modKey": "122",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "4330",
         "specGroup": "5",
         "position": "Protein N-term",
@@ -4993,7 +4993,7 @@
       {
         "hidden": "0",
         "modKey": "122",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "4327",
         "specGroup": "2",
         "position": "Any N-term",
@@ -5098,7 +5098,7 @@
       {
         "hidden": "1",
         "modKey": "530",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "3978",
         "specGroup": "2",
         "position": "Any C-term",
@@ -5151,7 +5151,7 @@
       {
         "hidden": "1",
         "modKey": "126",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10155",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -5204,7 +5204,7 @@
       {
         "hidden": "1",
         "modKey": "1897",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10161",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -5529,7 +5529,7 @@
       {
         "hidden": "1",
         "modKey": "136",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3537",
         "specGroup": "2",
         "position": "Any N-term",
@@ -5617,7 +5617,7 @@
       {
         "hidden": "1",
         "modKey": "139",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3717",
         "specGroup": "2",
         "position": "Any N-term",
@@ -5660,7 +5660,7 @@
       {
         "hidden": "1",
         "modKey": "140",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "6173",
         "specGroup": "1",
         "position": "Any C-term",
@@ -5689,7 +5689,7 @@
       {
         "hidden": "1",
         "modKey": "141",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3337",
         "specGroup": "2",
         "position": "Any N-term",
@@ -7348,7 +7348,7 @@
       {
         "hidden": "1",
         "modKey": "329",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9705",
         "specGroup": "3",
         "position": "Any N-term",
@@ -7377,7 +7377,7 @@
       {
         "hidden": "1",
         "modKey": "330",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "8021",
         "specGroup": "4",
         "position": "Protein N-term",
@@ -7387,7 +7387,7 @@
       {
         "hidden": "1",
         "modKey": "330",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "8020",
         "specGroup": "3",
         "position": "Any N-term",
@@ -7919,7 +7919,7 @@
       {
         "hidden": "0",
         "modKey": "193",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "4325",
         "specGroup": "1",
         "position": "Any C-term",
@@ -7948,7 +7948,7 @@
       {
         "hidden": "1",
         "modKey": "194",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3663",
         "specGroup": "2",
         "position": "Any N-term",
@@ -7991,7 +7991,7 @@
       {
         "hidden": "1",
         "modKey": "199",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "8008",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -8001,7 +8001,7 @@
       {
         "hidden": "1",
         "modKey": "199",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "8007",
         "specGroup": "2",
         "position": "Any N-term",
@@ -8594,7 +8594,7 @@
       {
         "hidden": "1",
         "modKey": "214",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10472",
         "specGroup": "7",
         "position": "Protein N-term",
@@ -8634,7 +8634,7 @@
       {
         "hidden": "0",
         "modKey": "214",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10467",
         "specGroup": "2",
         "position": "Any N-term",
@@ -8873,7 +8873,7 @@
       {
         "hidden": "0",
         "modKey": "258",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "3033",
         "specGroup": "4",
         "position": "Any C-term",
@@ -8998,7 +8998,7 @@
       {
         "hidden": "1",
         "modKey": "261",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3708",
         "specGroup": "2",
         "position": "Any N-term",
@@ -9096,7 +9096,7 @@
       {
         "hidden": "1",
         "modKey": "270",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3775",
         "specGroup": "3",
         "position": "Any N-term",
@@ -9185,7 +9185,7 @@
       {
         "hidden": "1",
         "modKey": "271",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3784",
         "specGroup": "3",
         "position": "Any N-term",
@@ -9441,7 +9441,7 @@
       {
         "hidden": "1",
         "modKey": "272",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "4436",
         "specGroup": "1",
         "position": "Any N-term",
@@ -9470,7 +9470,7 @@
       {
         "hidden": "1",
         "modKey": "1905",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10214",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -9558,7 +9558,7 @@
       {
         "hidden": "1",
         "modKey": "276",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3670",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -9722,7 +9722,7 @@
       {
         "hidden": "1",
         "modKey": "280",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "9564",
         "specGroup": "5",
         "position": "Any C-term",
@@ -9732,7 +9732,7 @@
       {
         "hidden": "1",
         "modKey": "280",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9563",
         "specGroup": "4",
         "position": "Protein N-term",
@@ -9752,7 +9752,7 @@
       {
         "hidden": "1",
         "modKey": "280",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9561",
         "specGroup": "2",
         "position": "Any N-term",
@@ -9912,7 +9912,7 @@
       {
         "hidden": "1",
         "modKey": "284",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9702",
         "specGroup": "2",
         "position": "Any N-term",
@@ -9965,7 +9965,7 @@
       {
         "hidden": "1",
         "modKey": "285",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "3621",
         "specGroup": "1",
         "position": "Any C-term",
@@ -10018,7 +10018,7 @@
       {
         "hidden": "1",
         "modKey": "286",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "3633",
         "specGroup": "1",
         "position": "Any C-term",
@@ -10057,7 +10057,7 @@
       {
         "hidden": "1",
         "modKey": "289",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "4308",
         "specGroup": "1",
         "position": "Protein C-term",
@@ -10240,7 +10240,7 @@
       {
         "hidden": "1",
         "modKey": "293",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3612",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -10409,7 +10409,7 @@
       {
         "hidden": "1",
         "modKey": "298",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "7633",
         "specGroup": "1",
         "position": "Anywhere",
@@ -11526,7 +11526,7 @@
       {
         "hidden": "1",
         "modKey": "324",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10113",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -11939,7 +11939,7 @@
       {
         "hidden": "1",
         "modKey": "362",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7268",
         "specGroup": "5",
         "position": "Any N-term",
@@ -12017,7 +12017,7 @@
       {
         "hidden": "1",
         "modKey": "364",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "5174",
         "specGroup": "3",
         "position": "Any N-term",
@@ -12027,7 +12027,7 @@
       {
         "hidden": "0",
         "modKey": "364",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "5173",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -12095,7 +12095,7 @@
       {
         "hidden": "0",
         "modKey": "365",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "5167",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -12115,7 +12115,7 @@
       {
         "hidden": "1",
         "modKey": "365",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "5168",
         "specGroup": "3",
         "position": "Any N-term",
@@ -12212,7 +12212,7 @@
       {
         "hidden": "1",
         "modKey": "531",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "8076",
         "specGroup": "2",
         "position": "Any C-term",
@@ -12851,7 +12851,7 @@
       {
         "hidden": "1",
         "modKey": "394",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "4301",
         "specGroup": "1",
         "position": "Protein C-term",
@@ -13160,7 +13160,7 @@
       {
         "hidden": "1",
         "modKey": "451",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "3933",
         "specGroup": "1",
         "position": "Protein C-term",
@@ -13258,7 +13258,7 @@
       {
         "hidden": "1",
         "modKey": "450",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "3931",
         "specGroup": "1",
         "position": "Protein C-term",
@@ -13413,7 +13413,7 @@
       {
         "hidden": "1",
         "modKey": "411",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3554",
         "specGroup": "1",
         "position": "Any N-term",
@@ -13442,7 +13442,7 @@
       {
         "hidden": "1",
         "modKey": "412",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3566",
         "specGroup": "1",
         "position": "Any N-term",
@@ -14259,7 +14259,7 @@
       {
         "hidden": "1",
         "modKey": "432",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "3780",
         "specGroup": "1",
         "position": "Protein C-term",
@@ -14404,7 +14404,7 @@
       {
         "hidden": "1",
         "modKey": "437",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "3790",
         "specGroup": "1",
         "position": "Protein C-term",
@@ -14702,7 +14702,7 @@
       {
         "hidden": "1",
         "modKey": "448",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "3858",
         "specGroup": "1",
         "position": "Protein C-term",
@@ -14770,7 +14770,7 @@
       {
         "hidden": "1",
         "modKey": "452",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "3938",
         "specGroup": "1",
         "position": "Protein C-term",
@@ -14809,7 +14809,7 @@
       {
         "hidden": "1",
         "modKey": "453",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "3943",
         "specGroup": "1",
         "position": "Protein C-term",
@@ -14976,7 +14976,7 @@
       {
         "hidden": "1",
         "modKey": "455",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10100",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -15015,7 +15015,7 @@
       {
         "hidden": "1",
         "modKey": "456",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "11022",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -15146,7 +15146,7 @@
       {
         "hidden": "1",
         "modKey": "457",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3920",
         "specGroup": "2",
         "position": "Any N-term",
@@ -15189,7 +15189,7 @@
       {
         "hidden": "1",
         "modKey": "464",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3706",
         "specGroup": "2",
         "position": "Any N-term",
@@ -15228,7 +15228,7 @@
       {
         "hidden": "1",
         "modKey": "477",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3906",
         "specGroup": "2",
         "position": "Any N-term",
@@ -15299,7 +15299,7 @@
       {
         "hidden": "1",
         "modKey": "476",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3904",
         "specGroup": "2",
         "position": "Any N-term",
@@ -15864,7 +15864,7 @@
       {
         "hidden": "1",
         "modKey": "501",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3914",
         "specGroup": "1",
         "position": "Any N-term",
@@ -15893,7 +15893,7 @@
       {
         "hidden": "1",
         "modKey": "503",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "4341",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -15961,7 +15961,7 @@
       {
         "hidden": "1",
         "modKey": "520",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3901",
         "specGroup": "2",
         "position": "Any N-term",
@@ -16000,7 +16000,7 @@
       {
         "hidden": "1",
         "modKey": "518",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3897",
         "specGroup": "2",
         "position": "Any N-term",
@@ -16039,7 +16039,7 @@
       {
         "hidden": "1",
         "modKey": "504",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "4343",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -16078,7 +16078,7 @@
       {
         "hidden": "1",
         "modKey": "510",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "8025",
         "specGroup": "4",
         "position": "Protein N-term",
@@ -16108,7 +16108,7 @@
       {
         "hidden": "1",
         "modKey": "510",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "8023",
         "specGroup": "2",
         "position": "Any N-term",
@@ -16137,7 +16137,7 @@
       {
         "hidden": "1",
         "modKey": "513",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "4385",
         "specGroup": "2",
         "position": "Any N-term",
@@ -16379,7 +16379,7 @@
       {
         "hidden": "1",
         "modKey": "525",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3953",
         "specGroup": "2",
         "position": "Any N-term",
@@ -16494,7 +16494,7 @@
       {
         "hidden": "1",
         "modKey": "523",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6293",
         "specGroup": "2",
         "position": "Any N-term",
@@ -16638,7 +16638,7 @@
       {
         "hidden": "1",
         "modKey": "532",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10475",
         "specGroup": "2",
         "position": "Any N-term",
@@ -16701,7 +16701,7 @@
       {
         "hidden": "1",
         "modKey": "533",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10447",
         "specGroup": "2",
         "position": "Any N-term",
@@ -16822,7 +16822,7 @@
       {
         "hidden": "1",
         "modKey": "536",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3971",
         "specGroup": "2",
         "position": "Any N-term",
@@ -16861,7 +16861,7 @@
       {
         "hidden": "1",
         "modKey": "537",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "3962",
         "specGroup": "2",
         "position": "Any N-term",
@@ -18107,7 +18107,7 @@
       {
         "hidden": "1",
         "modKey": "698",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7891",
         "specGroup": "1",
         "position": "Any N-term",
@@ -18233,7 +18233,7 @@
       {
         "hidden": "1",
         "modKey": "697",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7889",
         "specGroup": "1",
         "position": "Any N-term",
@@ -21181,7 +21181,7 @@
       {
         "hidden": "1",
         "modKey": "684",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "4209",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -21316,7 +21316,7 @@
       {
         "hidden": "1",
         "modKey": "687",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "5171",
         "specGroup": "3",
         "position": "Any N-term",
@@ -21326,7 +21326,7 @@
       {
         "hidden": "0",
         "modKey": "687",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "5170",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -21401,7 +21401,7 @@
       {
         "hidden": "1",
         "modKey": "730",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10488",
         "specGroup": "7",
         "position": "Protein N-term",
@@ -21451,7 +21451,7 @@
       {
         "hidden": "0",
         "modKey": "730",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10483",
         "specGroup": "2",
         "position": "Any N-term",
@@ -21768,7 +21768,7 @@
       {
         "hidden": "1",
         "modKey": "725",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7275",
         "specGroup": "7",
         "position": "Any N-term",
@@ -21857,7 +21857,7 @@
       {
         "hidden": "1",
         "modKey": "726",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7280",
         "specGroup": "5",
         "position": "Any N-term",
@@ -22107,7 +22107,7 @@
       {
         "hidden": "1",
         "modKey": "731",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10479",
         "specGroup": "2",
         "position": "Any N-term",
@@ -22212,7 +22212,7 @@
       {
         "hidden": "1",
         "modKey": "734",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "7609",
         "specGroup": "1",
         "position": "Any C-term",
@@ -22304,7 +22304,7 @@
       {
         "hidden": "1",
         "modKey": "737",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7992",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -22314,7 +22314,7 @@
       {
         "hidden": "0",
         "modKey": "737",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7991",
         "specGroup": "2",
         "position": "Any N-term",
@@ -22423,7 +22423,7 @@
       {
         "hidden": "1",
         "modKey": "738",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7986",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -22433,7 +22433,7 @@
       {
         "hidden": "0",
         "modKey": "738",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7985",
         "specGroup": "2",
         "position": "Any N-term",
@@ -22476,7 +22476,7 @@
       {
         "hidden": "1",
         "modKey": "739",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7223",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -22486,7 +22486,7 @@
       {
         "hidden": "1",
         "modKey": "739",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7222",
         "specGroup": "2",
         "position": "Any N-term",
@@ -22806,7 +22806,7 @@
       {
         "hidden": "1",
         "modKey": "748",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "4752",
         "specGroup": "1",
         "position": "Any N-term",
@@ -22864,7 +22864,7 @@
       {
         "hidden": "1",
         "modKey": "751",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "4754",
         "specGroup": "2",
         "position": "Any N-term",
@@ -23357,7 +23357,7 @@
       {
         "hidden": "1",
         "modKey": "827",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10935",
         "specGroup": "1",
         "position": "Any N-term",
@@ -23852,7 +23852,7 @@
       {
         "hidden": "1",
         "modKey": "811",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "6288",
         "specGroup": "1",
         "position": "Anywhere",
@@ -24068,7 +24068,7 @@
       {
         "hidden": "0",
         "modKey": "888",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7146",
         "specGroup": "2",
         "position": "Any N-term",
@@ -24263,7 +24263,7 @@
       {
         "hidden": "1",
         "modKey": "861",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "5414",
         "specGroup": "2",
         "position": "Any N-term",
@@ -24387,7 +24387,7 @@
       {
         "hidden": "0",
         "modKey": "866",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "5402",
         "specGroup": "3",
         "position": "Any N-term",
@@ -24407,7 +24407,7 @@
       {
         "hidden": "0",
         "modKey": "866",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "5401",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -24512,7 +24512,7 @@
       {
         "hidden": "0",
         "modKey": "889",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7163",
         "specGroup": "2",
         "position": "Any N-term",
@@ -25171,7 +25171,7 @@
       {
         "hidden": "1",
         "modKey": "907",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9496",
         "specGroup": "2",
         "position": "Any N-term",
@@ -26020,7 +26020,7 @@
       {
         "hidden": "1",
         "modKey": "946",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6440",
         "specGroup": "2",
         "position": "Any N-term",
@@ -26059,7 +26059,7 @@
       {
         "hidden": "1",
         "modKey": "947",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6442",
         "specGroup": "2",
         "position": "Any N-term",
@@ -26098,7 +26098,7 @@
       {
         "hidden": "1",
         "modKey": "948",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6438",
         "specGroup": "2",
         "position": "Any N-term",
@@ -26186,7 +26186,7 @@
       {
         "hidden": "1",
         "modKey": "950",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "5775",
         "specGroup": "2",
         "position": "Any C-term",
@@ -26215,7 +26215,7 @@
       {
         "hidden": "1",
         "modKey": "951",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "5799",
         "specGroup": "2",
         "position": "Any C-term",
@@ -26284,7 +26284,7 @@
       {
         "hidden": "1",
         "modKey": "952",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "5781",
         "specGroup": "2",
         "position": "Any C-term",
@@ -26333,7 +26333,7 @@
       {
         "hidden": "1",
         "modKey": "953",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "5784",
         "specGroup": "2",
         "position": "Any C-term",
@@ -26362,7 +26362,7 @@
       {
         "hidden": "1",
         "modKey": "954",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "8072",
         "specGroup": "2",
         "position": "Any C-term",
@@ -26441,7 +26441,7 @@
       {
         "hidden": "1",
         "modKey": "955",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "5793",
         "specGroup": "2",
         "position": "Any C-term",
@@ -26490,7 +26490,7 @@
       {
         "hidden": "1",
         "modKey": "956",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "5796",
         "specGroup": "2",
         "position": "Any C-term",
@@ -26558,7 +26558,7 @@
       {
         "hidden": "1",
         "modKey": "958",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "5824",
         "specGroup": "1",
         "position": "Any C-term",
@@ -26741,7 +26741,7 @@
       {
         "hidden": "1",
         "modKey": "978",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7727",
         "specGroup": "3",
         "position": "Any N-term",
@@ -26819,7 +26819,7 @@
       {
         "hidden": "1",
         "modKey": "979",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7730",
         "specGroup": "3",
         "position": "Any N-term",
@@ -26975,7 +26975,7 @@
       {
         "hidden": "1",
         "modKey": "973",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "6119",
         "specGroup": "1",
         "position": "Any C-term",
@@ -27128,7 +27128,7 @@
       {
         "hidden": "1",
         "modKey": "991",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6221",
         "specGroup": "1",
         "position": "Any N-term",
@@ -27177,7 +27177,7 @@
       {
         "hidden": "1",
         "modKey": "989",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "6164",
         "specGroup": "1",
         "position": "Any C-term",
@@ -27850,7 +27850,7 @@
       {
         "hidden": "1",
         "modKey": "1009",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9913",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -27987,7 +27987,7 @@
       {
         "hidden": "1",
         "modKey": "1020",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10034",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -28075,7 +28075,7 @@
       {
         "hidden": "1",
         "modKey": "1014",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6305",
         "specGroup": "2",
         "position": "Any N-term",
@@ -28104,7 +28104,7 @@
       {
         "hidden": "1",
         "modKey": "1015",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "6317",
         "specGroup": "1",
         "position": "Any C-term",
@@ -28195,7 +28195,7 @@
       {
         "hidden": "1",
         "modKey": "1021",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10040",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -28234,7 +28234,7 @@
       {
         "hidden": "1",
         "modKey": "1022",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10117",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -28277,7 +28277,7 @@
       {
         "hidden": "1",
         "modKey": "1023",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10123",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -28336,7 +28336,7 @@
       {
         "hidden": "1",
         "modKey": "1024",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10209",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -28365,7 +28365,7 @@
       {
         "hidden": "1",
         "modKey": "1892",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "11024",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -28499,7 +28499,7 @@
       {
         "hidden": "1",
         "modKey": "1027",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10098",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -28542,7 +28542,7 @@
       {
         "hidden": "1",
         "modKey": "1028",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10042",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -35674,7 +35674,7 @@
       {
         "hidden": "1",
         "modKey": "1251",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7705",
         "specGroup": "1",
         "position": "Anywhere",
@@ -35703,7 +35703,7 @@
       {
         "hidden": "1",
         "modKey": "1252",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6738",
         "specGroup": "1",
         "position": "Anywhere",
@@ -36612,7 +36612,7 @@
       {
         "hidden": "1",
         "modKey": "1288",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "6951",
         "specGroup": "1",
         "position": "Any N-term",
@@ -36743,7 +36743,7 @@
       {
         "hidden": "1",
         "modKey": "1290",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7752",
         "specGroup": "5",
         "position": "Any N-term",
@@ -36782,7 +36782,7 @@
       {
         "hidden": "1",
         "modKey": "1291",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7652",
         "specGroup": "2",
         "position": "Any N-term",
@@ -37024,7 +37024,7 @@
       {
         "hidden": "1",
         "modKey": "1301",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9466",
         "specGroup": "1",
         "position": "Any N-term",
@@ -37067,7 +37067,7 @@
       {
         "hidden": "0",
         "modKey": "1302",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7169",
         "specGroup": "2",
         "position": "Any N-term",
@@ -37350,7 +37350,7 @@
       {
         "hidden": "1",
         "modKey": "1305",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7944",
         "specGroup": "1",
         "position": "Any N-term",
@@ -37370,7 +37370,7 @@
       {
         "hidden": "1",
         "modKey": "1305",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "7948",
         "specGroup": "5",
         "position": "Any C-term",
@@ -37380,7 +37380,7 @@
       {
         "hidden": "1",
         "modKey": "1305",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "7949",
         "specGroup": "6",
         "position": "Protein C-term",
@@ -37409,7 +37409,7 @@
       {
         "hidden": "1",
         "modKey": "1306",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7195",
         "specGroup": "1",
         "position": "Any N-term",
@@ -37619,7 +37619,7 @@
       {
         "hidden": "1",
         "modKey": "1312",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7346",
         "specGroup": "4",
         "position": "Protein N-term",
@@ -37678,7 +37678,7 @@
       {
         "hidden": "1",
         "modKey": "1313",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9570",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -37737,7 +37737,7 @@
       {
         "hidden": "1",
         "modKey": "1314",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7360",
         "specGroup": "4",
         "position": "Protein N-term",
@@ -37888,7 +37888,7 @@
       {
         "hidden": "1",
         "modKey": "1350",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7573",
         "specGroup": "1",
         "position": "Any N-term",
@@ -37960,7 +37960,7 @@
       {
         "hidden": "1",
         "modKey": "1321",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7396",
         "specGroup": "2",
         "position": "Any N-term",
@@ -38003,7 +38003,7 @@
       {
         "hidden": "1",
         "modKey": "1322",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9749",
         "specGroup": "2",
         "position": "Any N-term",
@@ -38062,7 +38062,7 @@
       {
         "hidden": "1",
         "modKey": "1323",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7402",
         "specGroup": "2",
         "position": "Any N-term",
@@ -38111,7 +38111,7 @@
       {
         "hidden": "1",
         "modKey": "1324",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7405",
         "specGroup": "2",
         "position": "Any N-term",
@@ -38160,7 +38160,7 @@
       {
         "hidden": "1",
         "modKey": "1887",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10191",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -38959,7 +38959,7 @@
       {
         "hidden": "1",
         "modKey": "1344",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7765",
         "specGroup": "2",
         "position": "Any N-term",
@@ -39233,7 +39233,7 @@
       {
         "hidden": "1",
         "modKey": "1372",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7649",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -39879,7 +39879,7 @@
       {
         "hidden": "1",
         "modKey": "1392",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9746",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -39889,7 +39889,7 @@
       {
         "hidden": "1",
         "modKey": "1392",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9745",
         "specGroup": "2",
         "position": "Any N-term",
@@ -39942,7 +39942,7 @@
       {
         "hidden": "1",
         "modKey": "1393",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7808",
         "specGroup": "2",
         "position": "Any N-term",
@@ -39952,7 +39952,7 @@
       {
         "hidden": "1",
         "modKey": "1393",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7809",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -40005,7 +40005,7 @@
       {
         "hidden": "1",
         "modKey": "1394",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7821",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -40025,7 +40025,7 @@
       {
         "hidden": "1",
         "modKey": "1394",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7820",
         "specGroup": "2",
         "position": "Any N-term",
@@ -40068,7 +40068,7 @@
       {
         "hidden": "1",
         "modKey": "1395",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7824",
         "specGroup": "2",
         "position": "Any N-term",
@@ -40078,7 +40078,7 @@
       {
         "hidden": "1",
         "modKey": "1395",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7825",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -40131,7 +40131,7 @@
       {
         "hidden": "1",
         "modKey": "1396",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7828",
         "specGroup": "2",
         "position": "Any N-term",
@@ -40141,7 +40141,7 @@
       {
         "hidden": "1",
         "modKey": "1396",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7829",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -40200,7 +40200,7 @@
       {
         "hidden": "1",
         "modKey": "1397",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7845",
         "specGroup": "3",
         "position": "Any N-term",
@@ -40249,7 +40249,7 @@
       {
         "hidden": "1",
         "modKey": "1398",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "7848",
         "specGroup": "3",
         "position": "Any N-term",
@@ -40956,7 +40956,7 @@
       {
         "hidden": "1",
         "modKey": "1423",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "8081",
         "specGroup": "2",
         "position": "Any N-term",
@@ -41989,7 +41989,7 @@
       {
         "hidden": "1",
         "modKey": "1789",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10036",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -63874,7 +63874,7 @@
       {
         "hidden": "1",
         "modKey": "1876",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "11026",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -64160,7 +64160,7 @@
       {
         "hidden": "1",
         "modKey": "1838",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9731",
         "specGroup": "1",
         "position": "Any N-term",
@@ -64189,7 +64189,7 @@
       {
         "hidden": "1",
         "modKey": "1837",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9727",
         "specGroup": "1",
         "position": "Any N-term",
@@ -64218,7 +64218,7 @@
       {
         "hidden": "1",
         "modKey": "1836",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9729",
         "specGroup": "2",
         "position": "Any N-term",
@@ -64228,7 +64228,7 @@
       {
         "hidden": "1",
         "modKey": "1836",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "9728",
         "specGroup": "1",
         "position": "Any C-term",
@@ -64257,7 +64257,7 @@
       {
         "hidden": "1",
         "modKey": "1835",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "9732",
         "specGroup": "1",
         "position": "Any C-term",
@@ -64286,7 +64286,7 @@
       {
         "hidden": "1",
         "modKey": "1834",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9726",
         "specGroup": "1",
         "position": "Any N-term",
@@ -64604,7 +64604,7 @@
       {
         "hidden": "1",
         "modKey": "1833",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9730",
         "specGroup": "1",
         "position": "Any N-term",
@@ -64680,7 +64680,7 @@
       {
         "hidden": "1",
         "modKey": "1841",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9760",
         "specGroup": "2",
         "position": "Any N-term",
@@ -64709,7 +64709,7 @@
       {
         "hidden": "1",
         "modKey": "1842",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "11028",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -64987,7 +64987,7 @@
       {
         "hidden": "1",
         "modKey": "1844",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "11039",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -65253,7 +65253,7 @@
       {
         "hidden": "1",
         "modKey": "1870",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "9966",
         "specGroup": "2",
         "position": "Any C-term",
@@ -65350,7 +65350,7 @@
       {
         "hidden": "1",
         "modKey": "1878",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10048",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -65399,7 +65399,7 @@
       {
         "hidden": "1",
         "modKey": "1873",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "9991",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -65438,7 +65438,7 @@
       {
         "hidden": "1",
         "modKey": "1877",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10038",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -65526,7 +65526,7 @@
       {
         "hidden": "1",
         "modKey": "1879",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10050",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -65565,7 +65565,7 @@
       {
         "hidden": "1",
         "modKey": "1880",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10052",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -65594,7 +65594,7 @@
       {
         "hidden": "1",
         "modKey": "1881",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10056",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -65643,7 +65643,7 @@
       {
         "hidden": "1",
         "modKey": "1882",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10058",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -65682,7 +65682,7 @@
       {
         "hidden": "1",
         "modKey": "1883",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10060",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -65715,7 +65715,7 @@
       {
         "hidden": "1",
         "modKey": "1884",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "11034",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -65916,7 +65916,7 @@
       {
         "hidden": "1",
         "modKey": "1885",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10181",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -65955,7 +65955,7 @@
       {
         "hidden": "1",
         "modKey": "1886",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10179",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -65984,7 +65984,7 @@
       {
         "hidden": "1",
         "modKey": "1888",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10193",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -66023,7 +66023,7 @@
       {
         "hidden": "1",
         "modKey": "1889",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10196",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -66062,7 +66062,7 @@
       {
         "hidden": "1",
         "modKey": "1891",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "11030",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -66137,7 +66137,7 @@
       {
         "hidden": "1",
         "modKey": "1893",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "11032",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -66248,7 +66248,7 @@
       {
         "hidden": "1",
         "modKey": "1896",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10159",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -66277,7 +66277,7 @@
       {
         "hidden": "1",
         "modKey": "1895",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "11037",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -66384,7 +66384,7 @@
       {
         "hidden": "1",
         "modKey": "1898",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10163",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -66413,7 +66413,7 @@
       {
         "hidden": "1",
         "modKey": "1899",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10189",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -66466,7 +66466,7 @@
       {
         "hidden": "1",
         "modKey": "1900",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10167",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -66505,7 +66505,7 @@
       {
         "hidden": "1",
         "modKey": "1901",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10169",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -66548,7 +66548,7 @@
       {
         "hidden": "1",
         "modKey": "1902",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10171",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -66597,7 +66597,7 @@
       {
         "hidden": "1",
         "modKey": "1903",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10203",
         "specGroup": "3",
         "position": "Protein N-term",
@@ -66646,7 +66646,7 @@
       {
         "hidden": "1",
         "modKey": "1910",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "10231",
         "specGroup": "2",
         "position": "Any C-term",
@@ -66675,7 +66675,7 @@
       {
         "hidden": "1",
         "modKey": "1906",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10218",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -66714,7 +66714,7 @@
       {
         "hidden": "1",
         "modKey": "1907",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10222",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -66753,7 +66753,7 @@
       {
         "hidden": "1",
         "modKey": "1908",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10226",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -66792,7 +66792,7 @@
       {
         "hidden": "1",
         "modKey": "1909",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "11020",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -66937,7 +66937,7 @@
       {
         "hidden": "1",
         "modKey": "1911",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10233",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -66980,7 +66980,7 @@
       {
         "hidden": "1",
         "modKey": "1912",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10235",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -70137,7 +70137,7 @@
       {
         "hidden": "1",
         "modKey": "1970",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "11046",
         "specGroup": "2",
         "position": "Any C-term",
@@ -70167,7 +70167,7 @@
       {
         "hidden": "1",
         "modKey": "1970",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "11047",
         "specGroup": "3",
         "position": "Any N-term",
@@ -70220,7 +70220,7 @@
       {
         "hidden": "1",
         "modKey": "1971",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "10778",
         "specGroup": "2",
         "position": "Any C-term",
@@ -70230,7 +70230,7 @@
       {
         "hidden": "1",
         "modKey": "1971",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10779",
         "specGroup": "3",
         "position": "Any N-term",
@@ -70283,7 +70283,7 @@
       {
         "hidden": "1",
         "modKey": "1972",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "10786",
         "specGroup": "2",
         "position": "Any C-term",
@@ -70293,7 +70293,7 @@
       {
         "hidden": "1",
         "modKey": "1972",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10787",
         "specGroup": "3",
         "position": "Any N-term",
@@ -70346,7 +70346,7 @@
       {
         "hidden": "1",
         "modKey": "1973",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "10790",
         "specGroup": "2",
         "position": "Any C-term",
@@ -70356,7 +70356,7 @@
       {
         "hidden": "1",
         "modKey": "1973",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10791",
         "specGroup": "3",
         "position": "Any N-term",
@@ -70409,7 +70409,7 @@
       {
         "hidden": "1",
         "modKey": "1974",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "10794",
         "specGroup": "2",
         "position": "Any C-term",
@@ -70419,7 +70419,7 @@
       {
         "hidden": "1",
         "modKey": "1974",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10795",
         "specGroup": "3",
         "position": "Any N-term",
@@ -70472,7 +70472,7 @@
       {
         "hidden": "1",
         "modKey": "1975",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "10798",
         "specGroup": "2",
         "position": "Any C-term",
@@ -70482,7 +70482,7 @@
       {
         "hidden": "1",
         "modKey": "1975",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10799",
         "specGroup": "3",
         "position": "Any N-term",
@@ -70535,7 +70535,7 @@
       {
         "hidden": "1",
         "modKey": "1976",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "10802",
         "specGroup": "2",
         "position": "Any C-term",
@@ -70545,7 +70545,7 @@
       {
         "hidden": "1",
         "modKey": "1976",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10803",
         "specGroup": "3",
         "position": "Any N-term",
@@ -70598,7 +70598,7 @@
       {
         "hidden": "1",
         "modKey": "1977",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "10806",
         "specGroup": "2",
         "position": "Any C-term",
@@ -70608,7 +70608,7 @@
       {
         "hidden": "1",
         "modKey": "1977",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10807",
         "specGroup": "3",
         "position": "Any N-term",
@@ -70661,7 +70661,7 @@
       {
         "hidden": "1",
         "modKey": "1978",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "10810",
         "specGroup": "2",
         "position": "Any C-term",
@@ -70671,7 +70671,7 @@
       {
         "hidden": "1",
         "modKey": "1978",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10811",
         "specGroup": "3",
         "position": "Any N-term",
@@ -70724,7 +70724,7 @@
       {
         "hidden": "1",
         "modKey": "1979",
-        "oneLetter": "C-term",
+        "oneLetter": "Cterm",
         "recordId": "10814",
         "specGroup": "2",
         "position": "Any C-term",
@@ -70734,7 +70734,7 @@
       {
         "hidden": "1",
         "modKey": "1979",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10815",
         "specGroup": "3",
         "position": "Any N-term",
@@ -71082,7 +71082,7 @@
       {
         "hidden": "1",
         "modKey": "1993",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "10934",
         "specGroup": "1",
         "position": "Any N-term",
@@ -71156,7 +71156,7 @@
       {
         "hidden": "1",
         "modKey": "2000",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "11018",
         "specGroup": "2",
         "position": "Protein N-term",
@@ -71257,7 +71257,7 @@
       {
         "hidden": "1",
         "modKey": "1999",
-        "oneLetter": "N-term",
+        "oneLetter": "Nterm",
         "recordId": "11002",
         "specGroup": "2",
         "position": "Protein N-term",

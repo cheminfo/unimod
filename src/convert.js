@@ -23,6 +23,8 @@ async function doAll() {
   appendAltNames(tables);
   appendSpecificities(tables);
 
+  console.log(tables.aminoAcids.map((entry) => entry.oneLetter));
+
   writeFileSync(
     join(__dirname, 'modifications.json'),
     JSON.stringify(tables.modifications, undefined, 2),
